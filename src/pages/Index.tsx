@@ -78,7 +78,7 @@ const Index = () => {
             <Card className="p-6 text-center space-y-2 hover:shadow-lg transition-shadow">
               <Icon name="Clock" size={40} className="text-primary mx-auto" />
               <h3 className="text-3xl font-bold text-secondary">24/7</h3>
-              <p className="text-sm text-muted-foreground">Круглосуточная поддержка</p>
+              <p className="text-sm text-muted-foreground">Клиентская служба и консультации</p>
             </Card>
             <Card className="p-6 text-center space-y-2 hover:shadow-lg transition-shadow">
               <Icon name="Zap" size={40} className="text-accent mx-auto" />
